@@ -68,7 +68,6 @@ Key objectives:
 | `code.ipynb` | Implementation in Colab/Jupyter |
 | `report.pdf` | Detailed mini-project report |
 | `presentation.pdf` | Slides used for presentation |
-| `images/` | Charts, diagrams & screenshots |
 
 ---
 
